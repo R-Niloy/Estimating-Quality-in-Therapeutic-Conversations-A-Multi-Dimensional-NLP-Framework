@@ -21,6 +21,9 @@ This project presents a novel approach to evaluating therapeutic conversation qu
   - Comprehensive outlier detection
   - Feature normalization and preprocessing
 
+## System Arhcitecture
+![System Architecture for NLP Framework](https://github.com/R-Niloy/Estimating-Quality-in-Therapeutic-Conversations-A-Multi-Dimensional-NLP-Framework/blob/main/src/additional%20resources/system_architecture.jpg)
+
 ## 📊 Performance Highlights
 
 | Classifier | Accuracy | Precision | Recall | F1 Score | AUC Score |
