@@ -1,4 +1,4 @@
-# 🎯 Therapeutic Conversation Quality Assessment Framework
+# Therapeutic Conversation Quality Assessment Framework
 
 A multi-dimensional Natural Language Processing (NLP) framework for analyzing and assessing the quality of therapeutic conversations.
 
