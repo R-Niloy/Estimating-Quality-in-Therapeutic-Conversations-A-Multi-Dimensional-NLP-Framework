@@ -54,7 +54,7 @@ This project presents a novel approach to evaluating therapeutic conversation qu
    - Bi-gram analysis
    - Speaker-specific question tracking
 
-## 📦 Dependencies
+## 📦 Requirements
 
 - Python 3.8+
 - scikit-learn
@@ -63,6 +63,8 @@ This project presents a novel approach to evaluating therapeutic conversation qu
 - pandas
 - numpy
 - catboost
+- SVM
+- Random Forest
 
 
 ## 📝 License
